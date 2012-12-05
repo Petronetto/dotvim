@@ -2,6 +2,11 @@
 
 Inspired by http://vimcasts.org/episodes/synchronizing-plugins-with-git-submodules-and-pathogen/
 
+## Installing a new plugin
+    git submodule add http://github.com/tpope/vim-fugitive.git bundle/fugitive
+    git add .
+    git commit -m "Install Fugitive.vim bundle as a submodule."
+
 ## Installing Vim on another machine
 
     cd ~
