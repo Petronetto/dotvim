@@ -133,4 +133,5 @@ map <F3> :call NumberToggle()<CR>
 nmap <F8> :TagbarToggle<CR>
 
 
-
+" Synatatic options
+let g:syntastic_check_on_open=1
