@@ -1,4 +1,4 @@
-# Shane A. Stillwell Vim setup
+# Juliano Petronetto Vim setup
 
 Inspired by http://vimcasts.org/episodes/synchronizing-plugins-with-git-submodules-and-pathogen/
 
@@ -10,7 +10,7 @@ Inspired by http://vimcasts.org/episodes/synchronizing-plugins-with-git-submodul
 ## Installing Vim on another machine
 
     cd ~
-    git clone http://github.com/shanestillwell/dotvim.git ~/.vim
+    git clone http://github.com/Petronetto/dotvim.git ~/.vim
     ln -s ~/.vim/vimrc ~/.vimrc
     ln -s ~/.vim/gvimrc ~/.gvimrc
     cd ~/.vim
